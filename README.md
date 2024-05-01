@@ -1,42 +1,16 @@
 
-   # Tourvid
+# Safe Traveler
    
-   ### Travel saftey app
+
+## Description 
+Our vision is to provide travelers with confidence to travel safely and securely. We strive to provide a seamless travel experience by utilizing innovative technology, and equipping real time support. Our goal is to become the trusted companion for every traveler, ensuring their well-being and enabling unforgettable journeys.
    
-   ## Description 
-   Travel and tourism information web application that provides current Covid-19 statistics, weather, and news, for domestic (USA) and international destinations. 
 
-   <img src="assets\images\tourvidApp.png">
-
-   ## Table of Contents
-  * [Installation](#installation)
-    
-  * [Usage](#usage)
-
-  * [Credits](#credits)
-
-  * [Licenses](#license)
-
-    
-
-   ## Usage 
-  Click <a href ="https://napo-100.github.io/Covid-travel-safety-app">here</a> to get started!
-
-   ## Credits  
-  Bulma, JQuery, Heroku Cornoavirus API, Triposo API, GNews API, Open Weather API, Google Places API  
+## Credits  
+Bulma, JQuery, Heroku Covid API, Triposo API, GNews API, Open Weather API, Google Places API  
    
-   ## License
-   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-         
    
-   ## Github
-  #### <a href="https://www.github.com/napo-100">Michael Napolitano</a>
-  #### <a href="https://www.github.com/johngeorge88">John Awad</a>
-  #### <a href="https://www.github.com/jrsparl">John Sparling</a>
 
-   ## Email
-  #### Michaeljnapolitano@gmail.com
-  #### johniskandar@hotmail.com
-  #### john@sparlingmusic.com
+
    
  
